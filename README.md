@@ -1,1 +1,2 @@
-Todo meu estudo sobre Node que irei atualizar enquanto estudo
+Todos meus conhecimentos de Node aprendido em aula 
+Projeto API usando Express
